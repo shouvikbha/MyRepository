@@ -1,0 +1,7 @@
+C:\MODULE3 MPT\Cipla\CiplaWcfService\bin\CiplaWcfService.dll.config
+C:\MODULE3 MPT\Cipla\CiplaWcfService\bin\CiplaWcfService.dll
+C:\MODULE3 MPT\Cipla\CiplaWcfService\bin\CiplaWcfService.pdb
+C:\MODULE3 MPT\Cipla\CiplaWcfService\obj\Debug\CiplaWcfService.csprojAssemblyReference.cache
+C:\MODULE3 MPT\Cipla\CiplaWcfService\obj\Debug\CiplaWcfService.csproj.CoreCompileInputs.cache
+C:\MODULE3 MPT\Cipla\CiplaWcfService\obj\Debug\CiplaWcfService.dll
+C:\MODULE3 MPT\Cipla\CiplaWcfService\obj\Debug\CiplaWcfService.pdb

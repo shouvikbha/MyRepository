@@ -1,0 +1,112 @@
+C:\MODULE3 MPT\Cipla\CiplaAppClient\bin\CiplaAppClient.dll.config
+C:\MODULE3 MPT\Cipla\CiplaAppClient\bin\CiplaAppClient.dll
+C:\MODULE3 MPT\Cipla\CiplaAppClient\bin\CiplaAppClient.pdb
+C:\MODULE3 MPT\Cipla\CiplaAppClient\bin\roslyn\csc.exe
+C:\MODULE3 MPT\Cipla\CiplaAppClient\bin\roslyn\csc.exe.config
+C:\MODULE3 MPT\Cipla\CiplaAppClient\bin\roslyn\csc.rsp
+C:\MODULE3 MPT\Cipla\CiplaAppClient\bin\roslyn\csi.exe
+C:\MODULE3 MPT\Cipla\CiplaAppClient\bin\roslyn\csi.exe.config
+C:\MODULE3 MPT\Cipla\CiplaAppClient\bin\roslyn\csi.rsp
+C:\MODULE3 MPT\Cipla\CiplaAppClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\MODULE3 MPT\Cipla\CiplaAppClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\MODULE3 MPT\Cipla\CiplaAppClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\MODULE3 MPT\Cipla\CiplaAppClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\MODULE3 MPT\Cipla\CiplaAppClient\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\MODULE3 MPT\Cipla\CiplaAppClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\MODULE3 MPT\Cipla\CiplaAppClient\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\MODULE3 MPT\Cipla\CiplaAppClient\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\MODULE3 MPT\Cipla\CiplaAppClient\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\MODULE3 MPT\Cipla\CiplaAppClient\bin\roslyn\Microsoft.Managed.Core.targets
+C:\MODULE3 MPT\Cipla\CiplaAppClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\MODULE3 MPT\Cipla\CiplaAppClient\bin\roslyn\System.AppContext.dll
+C:\MODULE3 MPT\Cipla\CiplaAppClient\bin\roslyn\System.Collections.Immutable.dll
+C:\MODULE3 MPT\Cipla\CiplaAppClient\bin\roslyn\System.Console.dll
+C:\MODULE3 MPT\Cipla\CiplaAppClient\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\MODULE3 MPT\Cipla\CiplaAppClient\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\MODULE3 MPT\Cipla\CiplaAppClient\bin\roslyn\System.IO.Compression.dll
+C:\MODULE3 MPT\Cipla\CiplaAppClient\bin\roslyn\System.IO.FileSystem.dll
+C:\MODULE3 MPT\Cipla\CiplaAppClient\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\MODULE3 MPT\Cipla\CiplaAppClient\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\MODULE3 MPT\Cipla\CiplaAppClient\bin\roslyn\System.IO.Pipes.dll
+C:\MODULE3 MPT\Cipla\CiplaAppClient\bin\roslyn\System.Reflection.Metadata.dll
+C:\MODULE3 MPT\Cipla\CiplaAppClient\bin\roslyn\System.Security.AccessControl.dll
+C:\MODULE3 MPT\Cipla\CiplaAppClient\bin\roslyn\System.Security.Claims.dll
+C:\MODULE3 MPT\Cipla\CiplaAppClient\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\MODULE3 MPT\Cipla\CiplaAppClient\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\MODULE3 MPT\Cipla\CiplaAppClient\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\MODULE3 MPT\Cipla\CiplaAppClient\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\MODULE3 MPT\Cipla\CiplaAppClient\bin\roslyn\System.Security.Principal.Windows.dll
+C:\MODULE3 MPT\Cipla\CiplaAppClient\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\MODULE3 MPT\Cipla\CiplaAppClient\bin\roslyn\System.ValueTuple.dll
+C:\MODULE3 MPT\Cipla\CiplaAppClient\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\MODULE3 MPT\Cipla\CiplaAppClient\bin\roslyn\System.Xml.XmlDocument.dll
+C:\MODULE3 MPT\Cipla\CiplaAppClient\bin\roslyn\System.Xml.XPath.dll
+C:\MODULE3 MPT\Cipla\CiplaAppClient\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\MODULE3 MPT\Cipla\CiplaAppClient\bin\roslyn\vbc.exe
+C:\MODULE3 MPT\Cipla\CiplaAppClient\bin\roslyn\vbc.exe.config
+C:\MODULE3 MPT\Cipla\CiplaAppClient\bin\roslyn\vbc.rsp
+C:\MODULE3 MPT\Cipla\CiplaAppClient\bin\roslyn\VBCSCompiler.exe
+C:\MODULE3 MPT\Cipla\CiplaAppClient\bin\roslyn\VBCSCompiler.exe.config
+C:\MODULE3 MPT\Cipla\CiplaAppClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\MODULE3 MPT\Cipla\CiplaAppClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\MODULE3 MPT\Cipla\CiplaAppClient\obj\Debug\CiplaAppClient.csprojAssemblyReference.cache
+C:\MODULE3 MPT\Cipla\CiplaAppClient\obj\Debug\CiplaAppClient.csproj.CoreCompileInputs.cache
+C:\MODULE3 MPT\Cipla\CiplaAppClient\obj\Debug\CiplaAppClient.csproj.CopyComplete
+C:\MODULE3 MPT\Cipla\CiplaAppClient\obj\Debug\CiplaAppClient.dll
+C:\MODULE3 MPT\Cipla\CiplaAppClient\obj\Debug\CiplaAppClient.pdb
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\bin\CiplaAppClient.dll.config
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\bin\CiplaAppClient.dll
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\bin\CiplaAppClient.pdb
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\bin\roslyn\csc.exe
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\bin\roslyn\csc.exe.config
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\bin\roslyn\csc.rsp
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\bin\roslyn\csi.exe
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\bin\roslyn\csi.exe.config
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\bin\roslyn\csi.rsp
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\bin\roslyn\System.AppContext.dll
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\bin\roslyn\System.Console.dll
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\bin\roslyn\System.IO.Compression.dll
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\bin\roslyn\System.Security.Claims.dll
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\bin\roslyn\System.ValueTuple.dll
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\bin\roslyn\vbc.exe
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\bin\roslyn\vbc.exe.config
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\bin\roslyn\vbc.rsp
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\obj\Debug\CiplaAppClient.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\obj\Debug\CiplaAppClient.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\obj\Debug\CiplaAppClient.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\obj\Debug\CiplaAppClient.dll
+C:\Users\Administrator\Desktop\Cipla\CiplaAppClient\obj\Debug\CiplaAppClient.pdb

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CiplaWcfService", "CiplaWcfService\CiplaWcfService.csproj", "{F42DCD48-839A-4604-BBC2-D93CD82F6E17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CiplaAppClient", "CiplaAppClient\CiplaAppClient.csproj", "{F29F49B3-A84E-4577-85B9-2C3E6EAD490B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F42DCD48-839A-4604-BBC2-D93CD82F6E17} = {F42DCD48-839A-4604-BBC2-D93CD82F6E17}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F42DCD48-839A-4604-BBC2-D93CD82F6E17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F42DCD48-839A-4604-BBC2-D93CD82F6E17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F42DCD48-839A-4604-BBC2-D93CD82F6E17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F42DCD48-839A-4604-BBC2-D93CD82F6E17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F29F49B3-A84E-4577-85B9-2C3E6EAD490B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F29F49B3-A84E-4577-85B9-2C3E6EAD490B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F29F49B3-A84E-4577-85B9-2C3E6EAD490B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F29F49B3-A84E-4577-85B9-2C3E6EAD490B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D54D941-D3AD-4CA1-BC6C-F760DCB80A10}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="CiplaWcfService.CiplaService" CodeBehind="CiplaService.svc.cs" %>

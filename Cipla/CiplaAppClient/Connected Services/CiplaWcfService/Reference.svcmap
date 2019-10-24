@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="90370f0b-ee34-47b5-8874-7324f015d9c3" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:58739/CiplaService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="CiplaService.xsd" MetadataType="Schema" ID="79f33f23-b26a-433d-9d28-c165e8771ef7" SourceId="1" SourceUrl="http://localhost:58739/CiplaService.svc?xsd=xsd1" />
+    <MetadataFile FileName="CiplaService1.xsd" MetadataType="Schema" ID="d4fa5594-86c9-4504-89be-2a03a3d08ce1" SourceId="1" SourceUrl="http://localhost:58739/CiplaService.svc?xsd=xsd2" />
+    <MetadataFile FileName="CiplaService2.xsd" MetadataType="Schema" ID="1039c88f-1b0a-4971-9208-3ab2ce78e864" SourceId="1" SourceUrl="http://localhost:58739/CiplaService.svc?xsd=xsd0" />
+    <MetadataFile FileName="CiplaService.wsdl" MetadataType="Wsdl" ID="e2fac5d6-be00-435c-be08-aa4c37574392" SourceId="1" SourceUrl="http://localhost:58739/CiplaService.svc?wsdl" />
+    <MetadataFile FileName="CiplaService.disco" MetadataType="Disco" ID="bdd55007-68fd-4ff5-a471-e19db5912941" SourceId="1" SourceUrl="http://localhost:58739/CiplaService.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
